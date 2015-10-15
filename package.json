@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "word-count-test-package:toggle"
   },
-  "repository": "https://github.com/atom/word-count-test-package",
+  "repository": "https://github.com/drquinn/plugin-apm",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
