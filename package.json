@@ -1,10 +1,9 @@
 {
   "name": "bwxkilo",
   "main": "./lib/word-count-test-package",
-  "version": "0.0.6",
+  "version": "0.1.0",
   "description": "super amazing secret bwxkilo does it all",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "word-count-test-package:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
